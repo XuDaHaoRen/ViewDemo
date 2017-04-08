@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--自定义属性-->  <!--左边的内容，右边的内容，小箭头是否显示-->
+<resources>
+    <!--android:layout_width="match_parent"  为例-->
+    <declare-styleable name="ItemView"><!--相当于android:-->
+        <attr name="left_text" format="string"/>
+        <attr name="right_text" format="string"/>
+        <attr name="show_arrow" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="ArcDisplay">
+        <attr name="centerFontSize" format="integer" />
+        <attr name="centerTextColor" format="color" />
+        <attr name="centerCircleColor" format="color" />
+        <attr name="arcColor" format="color" />
+        <attr name="arcAngle" format="float" />
+        <attr name="arcWidth" format="integer" />
+    </declare-styleable>
+</resources>
