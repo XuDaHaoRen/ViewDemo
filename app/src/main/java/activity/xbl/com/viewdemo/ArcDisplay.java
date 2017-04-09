@@ -16,7 +16,7 @@ import android.view.View;
  * 3.6.3.1弧线展示图
  * 中间圆
  * 圆弧：圆弧的外接矩形（矩形是一个正方形）  圆弧显示的角度
- * 中心的文字：
+ * 中心的文字：设置了居中的属性
  */
 
 public class ArcDisplay extends View {

@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 /**
  * Created by April on 2017/4/6.
+ * 显示模拟QQ渐变栏的Activity
+ * 为自定义View绑定适配器
  */
 
 public class ScrollChangeActivity extends Activity {

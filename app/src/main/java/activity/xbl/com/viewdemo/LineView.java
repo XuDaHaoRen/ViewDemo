@@ -10,6 +10,7 @@ import android.view.View;
 /**
  * Created by April on 2017/4/6.
  * 折线图的绘图
+ * 重点是画布中坐标的定义
  */
 
 public class LineView extends View {

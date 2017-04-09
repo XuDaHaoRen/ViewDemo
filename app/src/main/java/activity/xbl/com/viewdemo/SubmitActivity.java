@@ -7,6 +7,7 @@ import android.widget.ImageView;
 
 /**
  * Created by April on 2017/4/5.
+ * 继承一个Button的自定义View
  */
 
 public class SubmitActivity extends Activity {

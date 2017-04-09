@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 /**
  * Created by April on 2017/4/7.
+ * 音乐频率的变化
  */
 
 public class MusicActivity extends Activity {

@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 /**
  * Created by April on 2017/4/6.
+ * 折线图
+ *
  */
 
 public class LineActivity extends Activity {

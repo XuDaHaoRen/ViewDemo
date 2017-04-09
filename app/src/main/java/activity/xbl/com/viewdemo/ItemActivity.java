@@ -7,6 +7,7 @@ import android.widget.Toast;
 
 /**
  * Created by April on 2017/4/5.
+ * 继承自一个布局的自定义控件
  */
 
 public class ItemActivity extends Activity {

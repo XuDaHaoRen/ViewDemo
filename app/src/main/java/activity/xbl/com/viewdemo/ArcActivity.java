@@ -14,6 +14,7 @@ public class ArcActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_arc);
         ArcDisplay arc= (ArcDisplay) findViewById(R.id.arc);
+        //设置弧度为100
         arc.setmSweepValue(100);
     }
 }

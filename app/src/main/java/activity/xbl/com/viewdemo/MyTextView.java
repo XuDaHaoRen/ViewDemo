@@ -10,7 +10,9 @@ import android.widget.TextView;
 
 /**
  * Created by April on 2017/4/5.
- * 绘制一个已有控件，让它更好看
+ * 绘制一个已有控件TextView，让它更好看
+ * 在TextVie外面包裹一层相互嵌套的矩形
+ *
  */
 
 public class MyTextView extends TextView {

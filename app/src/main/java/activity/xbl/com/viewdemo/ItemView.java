@@ -12,6 +12,8 @@ import android.widget.TextView;
 /**
  * Created by April on 2017/4/5.
  * 自定义控件：继承自布局,布局需要多个已有布局进行结合
+ * 父布局：RelativeLayout 里面包含很多小的布局
+ * 为布局添加自定义属性及方法
  */
 
 public class ItemView extends RelativeLayout {
